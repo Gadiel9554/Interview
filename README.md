@@ -10,7 +10,9 @@ Make sure that you are loading `interview.sql` before the installtioon of the sy
 
 
 ### Directory Structure
-./  
+
+./
+```
 ├── PHP/  
 │     └── Settings/  
 │        ├── config.php  
@@ -19,7 +21,8 @@ Make sure that you are loading `interview.sql` before the installtioon of the sy
 │        └── user.php  
 └── config/  
 │   ├── menu-top.php  
-│   └── menu-main.php  
+│   └── menu-main.php
+```
 ### Configuration Files
 
 1. **`config.php`** (System Information)
