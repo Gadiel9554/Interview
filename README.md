@@ -1,10 +1,13 @@
 # Project Documentation
 
 ## Overview
-This project contains various components for managing and processing data. In the `PHP/settings` directory, you can configure system-wide settings, database connections, application functions, and user session information. Additionally, the `config` directory contains settings for the top and main menus.
+This project contains various components for managing and processing data. In the `PHP/settings/` directory, you can configure system-wide settings, database connections, application functions, and user session information. Additionally, the `config` directory contains settings for the top and main menus.
 
 ## Configuration
-All system options can be updated in the `PHP/settings` and `config` directories. Below are the details on how to modify these configurations.
+All system options can be updated in the `PHP/settings/` and `config/` directories. Below are the details on how to modify these configurations.
+
+Make sure that you are loading `interview.sql` before the installtioon of the system.
+
 
 ### Directory Structure
 ./  
