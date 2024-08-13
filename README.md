@@ -11,8 +11,8 @@ Make sure that you are loading `interview.sql` before the installtioon of the sy
 
 ### Directory Structure
 
-./
 ```
+./
 ├── PHP/  
 │     └── Settings/  
 │        ├── config.php  
