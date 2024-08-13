@@ -7,16 +7,16 @@ This project contains various components for managing and processing data. In th
 All system options can be updated in the `PHP/settings` and `config` directories. Below are the details on how to modify these configurations.
 
 ### Directory Structure
-./
-├── PHP/
-│   └── Settings/
-│       ├── config.php
-│       ├── connection.php
-│       ├── functions.php
-│       └── user.php
-└── config/
-│   ├── menu-top.php
-│   └── menu-main.php
+./  
+├── PHP/  
+│   └── Settings/  
+│       ├── config.php  
+│       ├── connection.php  
+│       ├── functions.php  
+│       └── user.php  
+└── config/  
+│   ├── menu-top.php  
+│   └── menu-main.php  
 ### Configuration Files
 
 1. **`config.php`** (System Information)
