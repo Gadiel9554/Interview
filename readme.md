@@ -15,8 +15,8 @@ All system options can be updated in the `PHP/settings` and `config` directories
 │       ├── functions.php
 │       └── user.php
 └── config/
-    ├── menu-top.php
-    └── menu-main.php
+│   ├── menu-top.php
+│   └── menu-main.php
 ### Configuration Files
 
 1. **`config.php`** (System Information)
