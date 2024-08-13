@@ -15,13 +15,15 @@ Make sure that you are loading `interview.sql` before the installtioon of the sy
 ./
 ├── PHP/  
 │     └── Settings/  
-│        ├── config.php  
-│        ├── connection.php  
-│        ├── functions.php  
-│        └── user.php  
+│         ├── config.php  
+│         ├── connection.php  
+│         ├── functions.php  
+│         └── user.php  
 └── config/  
 │   ├── menu-top.php  
 │   └── menu-main.php
+|
+└── interview.sql
 ```
 ### Configuration Files
 
