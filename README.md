@@ -9,11 +9,11 @@ All system options can be updated in the `PHP/settings` and `config` directories
 ### Directory Structure
 ./  
 ├── PHP/  
-│   └── Settings/  
-│      ├── config.php  
-│      ├── connection.php  
-│      ├── functions.php  
-│      └── user.php  
+│     └── Settings/  
+│        ├── config.php  
+│        ├── connection.php  
+│        ├── functions.php  
+│        └── user.php  
 └── config/  
 │   ├── menu-top.php  
 │   └── menu-main.php  
